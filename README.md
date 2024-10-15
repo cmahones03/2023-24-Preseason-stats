@@ -2,11 +2,13 @@ Intended simply for comparison of pre-season performance and correlation with la
 Includes some bench-specific statistics as well.
 
 "Preseason stats (CSV)" is meant to cover just the preseason and regular season bench stats
+
 **IMPORTANT NOTE:** Anything tagged as RS_ here is Regular season BENCH statistics. 
 Variables: PS_Wins	PS_L	PS_Win_per	PS_PTS	PS_FGM	PS_FGA	PS_FG_per	PS_Three_PM	PS_BPM	RS_W	RS_L	RS_Win_per	RS_Bench_PTS	RS_Bench_FGM	RS_Bench_FGA	RS_Bench_FG_per	RS_Bench_3PM	RS_Bench_BPM
 
 Dimensions:
 19x31
+
 
 "Preaseason and Regular season stats 23_24.csv" is meant to cover preseason, regular season team stats, and regular season bench stats to give a more comprehensive view of relationship between pre and regular season. 
 
